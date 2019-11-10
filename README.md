@@ -6,4 +6,4 @@
 
 
 ## online examples
-* <script src="//onlinegdb.com/embed/js/HkSkLuHiB?theme=dark"></script>
+* https://onlinegdb.com/SyR78_SiB
