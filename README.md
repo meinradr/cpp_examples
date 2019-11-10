@@ -6,4 +6,5 @@
 
 
 ## online examples
+### pointers
 * https://onlinegdb.com/SyR78_SiB
