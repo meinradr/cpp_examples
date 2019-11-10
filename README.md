@@ -7,4 +7,4 @@
 
 ## online examples
 ### pointers
-* https://onlinegdb.com/SyR78_SiB
+* https://onlinegdb.com/Bk5XwuSoB
